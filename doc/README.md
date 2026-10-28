@@ -2,4 +2,4 @@
 
 Proyecto de prácticas de gestión de versiones.
 
-- Funcionalidades pendientes
+- Funcionalidad principal: hola
