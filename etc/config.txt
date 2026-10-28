@@ -1,2 +1,3 @@
 modo=desarrollo
 idioma=es
+color=azul
