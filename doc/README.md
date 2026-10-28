@@ -2,4 +2,4 @@
 
 Proyecto de prácticas de gestión de versiones.
 
-- Funcionalidad principal: hola
+- Documentacion: instrucciones de uso
