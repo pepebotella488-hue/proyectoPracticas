@@ -2,4 +2,4 @@
 
 Proyecto de prácticas de gestión de versiones.
 
-- Funcionalidades pendientes
+- Pruebas: Adios y Buenas noches
